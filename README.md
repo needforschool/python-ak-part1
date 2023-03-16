@@ -4,7 +4,7 @@
 > 
 > ⚠️ En POO même s'il y a peu d'attributs/getters/setters à faire.
 
-## Lancez le script
+## Lancer le script
 
 ```bash
 python main.py
