@@ -18,5 +18,4 @@ generator.add("qui est esse")
 generator.add("ea molestias quasi exercitationem repellat qui ipsa sit aut")
 generator.add("eum et est occaecati")
 
-
 print(generator.random())
