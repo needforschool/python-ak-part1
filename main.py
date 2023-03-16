@@ -38,4 +38,6 @@ generator.add("ea molestias quasi exercitationem repellat qui ipsa sit aut")
 generator.add("eum et est occaecati")
 
 # Génération d'une phrase aléatoire et affichage dans la console
-print(generator.random())
+print("┌   quotes generator")
+print("│")
+print("└   ➡️  " + generator.random())

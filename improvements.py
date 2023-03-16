@@ -40,6 +40,9 @@ for quote in response.json():
     generator.add(quote["title"])
 
 # Génération d'une phrase aléatoire et affichage dans la console à chaque appui sur une touche
+print("┌   quotes generator")
 while True:
-    input("Press any key to get a random quote:")
-    print(generator.random())
+    print("│")
+    input("◒   Press any key to get a random quote:")
+    print("│")
+    print("├   ➡️  " + generator.random())
